@@ -26,15 +26,15 @@ I build backend systems on .NET and Azure, with a focus on **microservices**, **
 
 ## 🛠 Stack
 
-**Languages:** C#, TypeScript/JavaScript, SQL, PowerShell
-**Backend:** .NET 8 / .NET Core, ASP.NET Core Web API, Entity Framework Core, LINQ
-**Cloud & DevOps:** Azure Service Bus, Azure Functions, Cosmos DB, Azure Monitor, Azure DevOps YAML pipelines, Infrastructure as Code (Bicep/ARM)
-**Data & caching:** Microsoft SQL Server, Redis
-**Testing:** MSTest, architecture tests, API smoke tests, Postman
+- **Languages:** C#, TypeScript/JavaScript, SQL, PowerShell
+- **Backend:** .NET Framework 4.7.2 to .NET 10, ASP.NET Core Web API, Entity Framework Core, LINQ
+- **Cloud & DevOps:** Azure Service Bus, Azure Functions, Cosmos DB, Azure Monitor, Azure DevOps YAML pipelines, Infrastructure as Code (Bicep/ARM)
+- **Data & caching:** Microsoft SQL Server, Redis
+- **Testing:** MSTest, architecture tests, API smoke tests, Postman
 
 ## 📈 Selected results
 
-- Extracted 4 microservices from a monolith: wrote the refactoring plan and aligned it with the team and architects
+- Extracted 4 microservices from a monolith: designed the refactoring plan and aligned it with the team and architects
 - Documented 6 Architecture Decision Records
 - Reduced load time of the most complex page from over 1 minute to under 10 seconds (N+1 query removal, set-based queries, two-level caching)
 - Cut CI/CD pipeline run time by 30–40% in the pipelines where shared templates were applied
@@ -48,7 +48,8 @@ I build backend systems on .NET and Azure, with a focus on **microservices**, **
 
 ## 🌍 Languages
 
-Russian: native · English: professional working proficiency
+- Russian: native
+- English: professional working proficiency
 
 ## 📫 Contact
 
